@@ -1,6 +1,6 @@
 # Portfolio for JYU Immersive Software Engineering and AI
 
-![Profile Pic](LFRA-style.jpg)
+![Profile Pic](profile.jpg)
 
 ## About Me
 Lâm Đường Phong - Builder passionate about AI and robotics. IELTS 7.5, SAT 1230 (Math 640). Strengths: Problem-solving, team leadership.
